@@ -1,1 +1,0 @@
-archivo creado con el unico proposito de hacer facil el proceso de clonar un repositorio a una computadora local
